@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 My name is Alex, I'm a JS/React frontend developer.
+**Looking for a job at the moment.**
 
 #### Coding with
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
