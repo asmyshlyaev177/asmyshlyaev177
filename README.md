@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Alex, I'm a JS/React frontend developer.
+My name is Alex, I'm a JS/React frontend developer. 
 **Looking for a job at the moment.**
 
 #### Coding with
@@ -11,6 +11,8 @@ My name is Alex, I'm a JS/React frontend developer.
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+
+
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
