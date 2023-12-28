@@ -1,7 +1,11 @@
 ### Hi there 👋
 
 My name is Alex, I'm a JS/React frontend developer. 
+
 **Looking for a job at the moment.**
+
+<a href="https://www.linkedin.com/in/asmyshlyaev177/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+
 
 #### Coding with
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
