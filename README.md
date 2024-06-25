@@ -29,7 +29,7 @@ My name is Alex, I'm a JS/React frontend developer.  I'm good with React, famili
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=asmyshlyaev177&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=asmyshlyaev177&show_icons=true&rank_icon=percentile)
 
 
 <!-- ![Profile View Counter](https://komarev.com/ghpvc/?username=asmyshlyaev177) -->
