@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Alex, I'm a JS/React frontend developer. 
+My name is Alex, I'm a JS/React frontend developer.  I'm good with React, familiar with NextJS/TailwindCSS, and unit/integration testing.
 
 [Landing page](https://asmyshlyaev177.github.io/developer/)
 
