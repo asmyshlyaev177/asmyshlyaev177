@@ -2,6 +2,8 @@
 
 My name is Alex, I'm a JS/React frontend developer.  I'm good with React, familiar with NextJS/TailwindCSS, and unit/integration testing.
 
+![GitHub User's stars](https://img.shields.io/github/stars/asmyshlyaev177)
+
 [Landing page](https://asmyshlyaev177.github.io/developer/)
 
 <a href="https://www.linkedin.com/in/asmyshlyaev177/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
