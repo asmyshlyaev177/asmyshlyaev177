@@ -6,8 +6,6 @@ My name is Alex, I'm a JS/React frontend developer.  I'm good with React, famili
 
 [Landing page](https://asmyshlyaev177.github.io/developer/)
 
-<a href="https://www.linkedin.com/in/asmyshlyaev177/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-
 ![](https://www.codewars.com/users/asmyshlyaev177/badges/large)
 
 #### Coding with
