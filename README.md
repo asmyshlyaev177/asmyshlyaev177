@@ -17,7 +17,7 @@ My name is Alex, I'm a JS/React frontend developer.  I'm good with React, famili
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=asmyshlyaev177&show_icons=true&rank_icon=percentile)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=asmyshlyaev177&column=3&margin-w=15&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=asmyshlyaev177&column=4&margin-w=15&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 #### Coding with
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
