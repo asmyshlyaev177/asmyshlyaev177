@@ -7,6 +7,11 @@ My name is Alex, I'm a JS/React frontend developer.  I'm good with React, famili
 ![](https://www.codewars.com/users/asmyshlyaev177/badges/large)
 
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=asmyshlyaev177&show_icons=true&rank_icon=percentile)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=asmyshlyaev177&column=4&margin-w=15&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+#### Coding with
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
@@ -15,11 +20,6 @@ My name is Alex, I'm a JS/React frontend developer.  I'm good with React, famili
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=asmyshlyaev177&show_icons=true&rank_icon=percentile)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=asmyshlyaev177&column=4&margin-w=15&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-#### Coding with
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
