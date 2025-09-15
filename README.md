@@ -57,6 +57,6 @@ My name is Alex, I'm a JS/React frontend developer.  I'm good with React, famili
 
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
-[Landing page](https://asmyshlyaev177.github.io/developer/)
+[Landing page](https://asmyshlyaev177.dev/)
 
 <!-- ![Profile View Counter](https://komarev.com/ghpvc/?username=asmyshlyaev177) -->
