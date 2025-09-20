@@ -1,6 +1,13 @@
 ### Hi there 👋
 
-My name is Alex, I'm a JS/React frontend developer.  I'm good with React, familiar with NextJS/TailwindCSS, and unit/integration testing.
+  Alex - Frontend Developer
+
+- Specialization: Typescript/JavaScript + React development
+- Core Skills: React expertise
+- Technologies: Next.js, React-router, Tailwind CSS, Hooks, forms, Graphql, etc
+- Testing: Unit and integration testing with Playwright, Jest.
+- DevOps mindset and CI/CD 
+- Couple of open source projects
 
 ![GitHub User's stars](https://img.shields.io/github/stars/asmyshlyaev177)
 
