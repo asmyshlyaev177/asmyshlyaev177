@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
   Alex - Frontend Developer
 
@@ -11,6 +11,11 @@
 
 ![GitHub User's stars](https://img.shields.io/github/stars/asmyshlyaev177)
 
+## [Landing page](https://asmyshlyaev177.dev/)
+
+#### [Old landing page](https://asmyshlyaev177.github.io/developer_old/)
+
+## Stats
 ![](https://www.codewars.com/users/asmyshlyaev177/badges/large)
 
 
@@ -63,7 +68,5 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-
-[Landing page](https://asmyshlyaev177.dev/)
 
 <!-- ![Profile View Counter](https://komarev.com/ghpvc/?username=asmyshlyaev177) -->
