@@ -15,34 +15,33 @@
 
 #### [Old landing page](https://asmyshlyaev177.github.io/developer_old/)
 
-## Stats
+#### Stats
 ![](https://www.codewars.com/users/asmyshlyaev177/badges/large)
 
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=asmyshlyaev177&show_icons=true&rank_icon=percentile)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=asmyshlyaev177&column=4&margin-w=15&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=asmyshlyaev177&show_icons=true&rank_icon=percentile) -->
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=asmyshlyaev177&column=4&margin-w=15&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 #### Coding with
 <table>
   <tbody>
     <tr>
       <td align="center" width="96">
-            <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0fcf9befefc83e207ed36bdeb3ac4f6c99132571ddb0f44e7a6ac872b0723352/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667"><img src="https://camo.githubusercontent.com/0fcf9befefc83e207ed36bdeb3ac4f6c99132571ddb0f44e7a6ac872b0723352/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667" alt="icon" width="48" height="48" data-canonical-src="https://techstack-generator.vercel.app/react-icon.svg" style="max-width: 100%;"></a>
+            <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0fcf9befefc83e207ed36bdeb3ac4f6c99132571ddb0f44e7a6ac872b0723352/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667"><img src="https://raw.githubusercontent.com/asmyshlyaev177/asmyshlyaev177/refs/heads/main/react-icon.svg" alt="icon" width="48" height="48" data-canonical-src="https://raw.githubusercontent.com/asmyshlyaev177/asmyshlyaev177/refs/heads/main/react-icon.svg" style="max-width: 100%;"></a>
             <br>React
         </td>
 <td align="center" width="96">
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/dd2c84af43a6c56860d910c605d51d058a28213431a42e422dcb6a62ab53d14a/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f74732d69636f6e2e737667"><img src="https://camo.githubusercontent.com/dd2c84af43a6c56860d910c605d51d058a28213431a42e422dcb6a62ab53d14a/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f74732d69636f6e2e737667" alt="icon" width="48" height="48" data-canonical-src="https://techstack-generator.vercel.app/ts-icon.svg" style="max-width: 100%;"></a>
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/dd2c84af43a6c56860d910c605d51d058a28213431a42e422dcb6a62ab53d14a/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f74732d69636f6e2e737667"><img src="https://raw.githubusercontent.com/asmyshlyaev177/asmyshlyaev177/refs/heads/main/ts-icon.svg" alt="icon" width="48" height="48" data-canonical-src="https://raw.githubusercontent.com/asmyshlyaev177/asmyshlyaev177/refs/heads/main/ts-icon.svg" style="max-width: 100%;"></a>
     <br>TypeScript
 </td>
 
 <td align="center" width="96">
-            <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/369ce0f9d1b9e5e69b4b6df1752862ce1fc99699d6bb17d84cc2825c75d1e2d6/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6e6578746a73"><img src="https://camo.githubusercontent.com/369ce0f9d1b9e5e69b4b6df1752862ce1fc99699d6bb17d84cc2825c75d1e2d6/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6e6578746a73" width="48" height="48" alt="NextJS" data-canonical-src="https://skillicons.dev/icons?i=nextjs" style="max-width: 100%;"></a>
+            <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/369ce0f9d1b9e5e69b4b6df1752862ce1fc99699d6bb17d84cc2825c75d1e2d6/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6e6578746a73"><img src="https://raw.githubusercontent.com/asmyshlyaev177/asmyshlyaev177/refs/heads/main/next-icon.svg" width="48" height="48" alt="NextJS" data-canonical-src="https://raw.githubusercontent.com/asmyshlyaev177/asmyshlyaev177/refs/heads/main/next-icon.svg" style="max-width: 100%;"></a>
             <br>NextJS
         </td>
         
 <td align="center" width="96">
-            <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f383e4b2c5e8c2ca73221c29ef270d55d82eb3beeb79bd6b409dcb6ab64a4b7c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7461696c77696e64"><img src="https://camo.githubusercontent.com/f383e4b2c5e8c2ca73221c29ef270d55d82eb3beeb79bd6b409dcb6ab64a4b7c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7461696c77696e64" width="48" height="48" alt="tailwind" data-canonical-src="https://skillicons.dev/icons?i=tailwind" style="max-width: 100%;"></a>
+            <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f383e4b2c5e8c2ca73221c29ef270d55d82eb3beeb79bd6b409dcb6ab64a4b7c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7461696c77696e64"><img src="https://raw.githubusercontent.com/asmyshlyaev177/asmyshlyaev177/refs/heads/main/tailwind-icon.svg" width="48" height="48" alt="tailwind" data-canonical-src="https://raw.githubusercontent.com/asmyshlyaev177/asmyshlyaev177/refs/heads/main/tailwind-icon.svg" style="max-width: 100%;"></a>
             <br>Tailwind
         </td>
     </tr>
