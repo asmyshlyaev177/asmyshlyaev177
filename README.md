@@ -16,7 +16,7 @@
 #### [Old landing page](https://asmyshlyaev177.github.io/developer_old/)
 
 #### Stats
-![](https://www.codewars.com/users/asmyshlyaev177/badges/large)
+![https://www.codewars.com/users/asmyshlyaev177](https://www.codewars.com/users/asmyshlyaev177/badges/large)
 
 
 <!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=asmyshlyaev177&show_icons=true&rank_icon=percentile) -->
