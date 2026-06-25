@@ -15,7 +15,7 @@
 
 #### [Old landing page](https://asmyshlyaev177.github.io/developer_old/)
 
-#### Stats
+#### Stats on https://www.codewars.com/users/asmyshlyaev177
 ![https://www.codewars.com/users/asmyshlyaev177](https://www.codewars.com/users/asmyshlyaev177/badges/large)
 
 
