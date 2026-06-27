@@ -52,4 +52,4 @@ I write about React internals, testing, and DX → **[blog](https://asmyshlyaev1
 
 Available for **remote React / Next.js contracts**. Legal entity in place (invoice-ready), C1 English, async-first.
 
-🔎 **Vet me in 2 minutes — [AI-verify, no signup](https://asmyshlyaev177.dev?verify)** &nbsp;·&nbsp; 💼 [LinkedIn](https://linkedin.com/in/asmyshlyaev177) &nbsp;·&nbsp; ✉️ [asmyshlyaev177@gmail.com](mailto:asmyshlyaev177@gmail.com)
+🔎 **Vet me in 2 minutes — [AI-verify, no signup](https://asmyshlyaev177.dev/?verify)** &nbsp;·&nbsp; 💼 [LinkedIn](https://linkedin.com/in/asmyshlyaev177) &nbsp;·&nbsp; ✉️ [asmyshlyaev177@gmail.com](mailto:asmyshlyaev177@gmail.com)
