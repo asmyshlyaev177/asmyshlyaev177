@@ -8,6 +8,8 @@
 
 > The three libraries behind those numbers — `react-horizontal-scrolling-menu`, `state-in-url`, and `test-proxy-recorder` — are pinned right below. 👇
 
+<a href="https://github.com/asmyshlyaev177?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/github/user-stars/asmyshlyaev177.svg?variant=secondary&amp;size=sm&amp;mode=dark"><img alt="GitHub Stars" src="https://www.shieldcn.dev/github/user-stars/asmyshlyaev177.svg?variant=secondary&amp;size=sm&amp;mode=light"></picture></a> 
+
 ## Stack
 
 **Core:** React · Next.js · TypeScript · JavaScript (ES6+)
