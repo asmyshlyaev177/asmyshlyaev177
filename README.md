@@ -2,7 +2,7 @@
 
 **Senior Frontend Engineer** · React · Next.js · TypeScript
 
-8+ years shipping production React — and the author of the open-source libraries behind it: **1.1k GitHub stars, 100k+ weekly npm downloads**, shipped by [Our World in Data](https://github.com/owid/owid-grapher), [Precious Plastic](https://github.com/ONEARMY/community-platform), [erxes](https://github.com/erxes/erxes), [Reapit](https://github.com/reapit/foundations), and an [official AWS solution](https://github.com/aws-solutions/performance-dashboard-on-aws).
+8+ years shipping production React — and the author of the open-source libraries behind it: **1.3k GitHub stars, 100k+ weekly npm downloads**, shipped by [Our World in Data](https://github.com/owid/owid-grapher), [Precious Plastic](https://github.com/ONEARMY/community-platform), [erxes](https://github.com/erxes/erxes), [Reapit](https://github.com/reapit/foundations), and an [official AWS solution](https://github.com/aws-solutions/performance-dashboard-on-aws).
 
 📍 Tbilisi, Georgia (GMT+4 — full overlap with CET) &nbsp;·&nbsp; 💼 Open to **remote full-time or contract** &nbsp;·&nbsp; 🌐 **[asmyshlyaev177.dev](https://asmyshlyaev177.dev)**
 
